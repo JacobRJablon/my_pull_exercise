@@ -9,3 +9,5 @@ My favorite color is green
 
 
 My favorite number is 3
+
+This is my favorite practice exercise so far!
