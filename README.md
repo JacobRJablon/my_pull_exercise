@@ -5,7 +5,7 @@
 This is the readme file in my favorite repo :)
 
 
-My favorite color is green
+My favorite color is green, but I also really like blue
 
 
 My favorite number is 3
